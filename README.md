@@ -7,7 +7,7 @@ Rules - https://wizardofodds.com/games/blackjack/basics/ (Surrender not allowed 
 ## Details
 + The only variable is the probability of a face card (Jack,Knight,Queen,10). This can be between 0 and 0.5. Higher probabilities will lead to diverging rewards, and the program wont converge.
 + Certain actions are not allowed (Surrender, Insurance)
-+ On running the code, a policy file will be created with all optimal actions. The actions are encoded as P(Pair Split), D(Double), H(Hit) and S( Stand). The top row will be the dealer totals, and the leftmost column will be the players hand. According to the optimal first action will be written.
++ On running the code, a policy file will be created with all optimal actions. The actions are encoded as P(Pair Split), D(Double), H(Hit) and S( Stand). The top row will be the dealer totals, and the leftmost column will be the players hand. According to this the optimal first action will be written.
 
 
 ## Schematics
