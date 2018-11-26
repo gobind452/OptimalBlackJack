@@ -1,6 +1,6 @@
 # Optimal BlackJack
 
-Calculates the optimal action for any player and dealer initial card configuration in BlackJack modeling the game as a Markov Decision Process and using policy iteration
+Calculates the optimal action for any player and dealer initial card configuration in BlackJack, modeling the game as a Markov Decision Process and using policy iteration
 
 Rules - https://wizardofodds.com/games/blackjack/basics/ (Surrender not allowed in the code)
 
