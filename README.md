@@ -4,6 +4,8 @@ Calculates the optimal action for any player and dealer initial card configurati
 
 Rules - https://wizardofodds.com/games/blackjack/basics/ (Surrender not allowed in the code)
 
+Part of the course COL333 (Artificial Intelligence) at IIT Delhi
+
 ## Details
 + The only variable is the probability of a face card (Jack,Knight,Queen,10). This can be between 0 and 0.5. Higher probabilities will lead to diverging rewards, and the program wont converge.
 + Certain actions are not allowed (Surrender, Insurance)
